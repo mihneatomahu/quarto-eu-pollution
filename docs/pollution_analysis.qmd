@@ -1,0 +1,12 @@
+---
+title: "Air Pollution Analysis"
+format: html
+---
+
+## **Air Quality Data**
+The following table shows the latest pollution data:
+
+```{r}
+df <- read.csv("data/air_quality_latest.csv")
+head(df)
+![](pm_pollution_trend.png)
