@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "docs/pollution_analysis.html",
+    "href": "docs/pollution_analysis.html",
+    "title": "Air Pollution Analysis",
+    "section": "",
+    "text": "The following table shows the latest pollution data:\ndf &lt;- read.csv(“data/air_quality_latest.csv”) head(df)"
+  },
+  {
+    "objectID": "docs/pollution_analysis.html#air-quality-data",
+    "href": "docs/pollution_analysis.html#air-quality-data",
+    "title": "Air Pollution Analysis",
+    "section": "",
+    "text": "The following table shows the latest pollution data:\ndf &lt;- read.csv(“data/air_quality_latest.csv”) head(df)"
   }
 ]
